@@ -1,6 +1,3 @@
-# AWS-Infrastructure-Automation-with-Terraform
-For Project
-
 # AWS Infrastructure Automation with Terraform
 
 ## Overview
